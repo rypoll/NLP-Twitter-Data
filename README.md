@@ -1,2 +1,2 @@
 # NLP-Covid-Twitter
- Investigating Covid misinformation using Twitter data
+ Investigating Covid misinformation using Twitter data.

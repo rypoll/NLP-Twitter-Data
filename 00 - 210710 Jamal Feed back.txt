@@ -1,0 +1,12 @@
+1. easier to navigate, task b starts earlier
+2. create a program doing the same but 
+3. elaborate more on decisions 
+4. intro and conclusion from each section 
+5. summary of what to expect at the beginning, talk about what qssignment about, what we're investigating
+we're investigating corona tweets, we're trying to find xyz
+6. when load in libraries, because we need it cos of this 
+7. for pre processing, mention order 
+"the way i'm going to tackle the pre-processing"
+reading why use spacy over something else
+
+
